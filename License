@@ -1,0 +1,151 @@
+TODOCOCCUS - PRIVACY POLICY
+Last updated: 25 August 2026
+
+
+THE SHORT VERSION
+
+Todococcus has no servers. It reads your Reminders on your device and
+stores your creatures and quest history in your own iCloud account.
+There is no analytics, no advertising, no third-party data sharing, and
+no account to create. The developer cannot see your data.
+
+
+WHO PROVIDES THIS APP
+
+Todococcus is made by an independent developer for use by families.
+Questions about this policy, or about anything the app does, can go to
+41.hauteur.boiler@icloud.com.
+
+
+WHAT THE APP READS FROM YOUR DEVICE
+
+Reminders
+
+With your explicit permission, Todococcus reads your Reminders lists in
+order to turn reminders into quests. It reads reminder titles, due
+dates, completion status, list membership, and any hashtags you have
+added for assignment or grouping.
+
+This happens on your device. Reminder content is never transmitted to
+the developer or to any third party. If you decline the permission, or
+revoke it later in Settings > Privacy & Security > Reminders, the app
+has no quests to show you but is otherwise unaffected.
+
+
+HEALTH DATA
+
+Health features are off unless an adult household member turns them on.
+They are available to adult accounts only; children's creatures never
+read health data.
+
+When an adult enables them, Todococcus reads selected data from Apple's
+Health app for one purpose: to recognise that an activity was logged.
+The app rewards the act of logging, not the value logged. Read access
+is requested for specific data types only, is granted by you per type,
+and can be changed at any time in Settings > Health > Data Access &
+Devices.
+
+Health data is read on your device. It is not stored in iCloud, not
+transmitted to the developer, and not shared with any third party. It
+is never used for advertising, marketing, or data mining. The app
+writes nothing back into HealthKit.
+
+
+WHAT THE APP STORES, AND WHERE
+
+Todococcus creates and stores:
+
+  - Creature state: species, evolution stage, experience, and earned
+    visual features
+  - Quest completion records, including which household member
+    completed which quest and when
+  - Local app settings and preferences
+
+This information lives in two places: on your device, and in Apple's
+CloudKit inside your own iCloud account. Household members share a
+single CloudKit record zone so that everyone sees the same creatures
+and the same quest history.
+
+Records in a CloudKit private or shared database are not accessible to
+app developers. The developer of Todococcus cannot read, export,
+modify, or delete anything in your household's zone.
+
+Health data is deliberately excluded from everything above. Nothing
+read from the Health app, and nothing from which a health value could
+be reconstructed, is written to CloudKit.
+
+
+WHAT THE APP DOES NOT DO
+
+  - No advertising, and no advertising identifiers
+  - No analytics or crash-reporting SDKs of any kind
+  - No third-party servers; there is no backend other than Apple's
+    CloudKit
+  - No account creation, email address, password, or sign-in of its own
+  - No location data
+  - No sale, rental, or sharing of data with anyone
+  - No tracking across apps or websites, so no App Tracking
+    Transparency prompt
+
+
+BETA TESTING THROUGH TESTFLIGHT
+
+While Todococcus is distributed through TestFlight, Apple - not the app
+- collects crash logs and basic usage metrics such as session counts,
+installs, and crashes, and makes them available to the developer.
+Testers can also submit screenshots and written feedback through
+TestFlight; that feedback goes to the developer and will contain
+whatever was on screen when it was captured.
+
+This collection is governed by Apple's Privacy Policy
+(https://www.apple.com/legal/privacy/) and the TestFlight Terms of
+Service
+(https://www.apple.com/legal/internet-services/itunes/testflight/). It
+stops when the app leaves TestFlight.
+
+
+HOUSEHOLDS AND CHILDREN
+
+Todococcus is designed to be used by a family together. Within a
+household, members can see each other's creatures and completed quests
+- that shared visibility is the point of the app. It is confined to the
+household; nothing crosses out of it.
+
+The family organizer sets up the household and controls who is invited
+to the shared zone. No information about any household member, adult or
+child, is transmitted to the developer or to any third party.
+
+Apple's TestFlight Terms of Service do not permit children under 13 to
+use TestFlight, so children in that age range are not beta testers.
+
+A parent or guardian who wants a child's data removed can delete it
+from within the app or remove the household's iCloud data directly. The
+developer holds no separate copy and therefore has nothing to delete on
+request.
+
+
+DELETING YOUR DATA
+
+Deleting the app removes local data. Data held in CloudKit can be
+removed from within the app, or through Settings > [your name] >
+iCloud > Manage Account Storage. Because the data lives in your iCloud
+account rather than on a developer-operated server, you control it
+directly and no request to the developer is needed.
+
+
+CHANGES TO THIS POLICY
+
+Any change will be reflected on this page along with a revised date at
+the top. Material changes - particularly any change to what the app
+reads or stores - will also be called out in release notes.
+
+
+CONTACT
+
+41.hauteur.boiler@icloud.com
+
+
+---
+
+Todococcus is a Tamon project. Apple, iCloud, CloudKit, HealthKit,
+Reminders, and TestFlight are trademarks of Apple Inc.
